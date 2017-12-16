@@ -1,0 +1,2657 @@
+
+#EXTM3U Magyar
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="m1" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Magyar",M1
+http://79.113.202.151::8001/1:0:1:618:5:1:E083113:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="m1" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m1hd-110.png" group-title="Magyar",M1 HD
+http://79.113.202.151:8001/1:0:1:FC8:D:1:E082E2F:0:0:0:
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="m2 / Petõfi TV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m2-110.png" group-title="Magyar",M2
+http://79.113.202.151:8001/1:0:1:A8C:5:1:E083113:0:0:0:
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="m2 / Petõfi TV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m2hd10.png" group-title="Magyar",M2 HD
+http://79.113.202.151:8001/1:0:19:7726:2C1:600:E080000:0:0:0:
+
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="m3" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m3_ann10.png" group-title="Magyar",M3
+http://79.113.202.151:8001/1:0:1:79E2:2C8:600:E080000:0:0:0:
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="M5" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m5_hd10.png" group-title="Magyar",M5
+http://79.113.202.151:8001/1:0:1:7799:2C2:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="M5" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m5_hd10.png" group-title="Magyar",M5 HD
+http://79.113.202.151:8001/1:0:19:773A:2C1:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Duna TV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/dunatv10.png" group-title="Magyar",Duna Tv
+http://79.113.202.151:8001/1:0:1:D20:5:1:E083113:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Duna TV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/dunahd10.png" group-title="Magyar",Duna HD
+http://79.113.202.151:8001/1:0:19:7919:2C6:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Duna World" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/dunawo10.png" group-title="Magyar",Duna World 
+http://79.113.202.151:8001/1:0:1:7608:2BE:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Duna World" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/dunawo11.png" group-title="Magyar",Duna World HD
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=12130000
+http://188.143.126.201:8101/dvblink/direct?client=e930897f0d69378368bb0f7cd442ca2c&channel=12130000
+
+
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="RTL Klub" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/rtl_kl11.png" group-title="Magyar",RTL Klub
+http://79.113.202.151:8001/1:0:1:7601:2BE:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="RTL Klub" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/rtl_kl10.jpg" group-title="Magyar",RTL Klub HD
+http://79.113.202.151:8001/1:0:19:7728:2C1:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="RTL II" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/logo_o12.png" group-title="Magyar",RTL II
+http://79.113.202.151:8001/1:0:1:79EC:2C8:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="RTL II" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/rtl2_h10.png" group-title="Magyar",RTL II HD
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=11160000
+
+
+   
+#EXTINF:-1 tvg-id="RTLGold.hu" tvg-name="RTL Gold" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/rtl_go10.png" group-title="Magyar",RTL Gold
+http://79.113.202.151:8001/1:0:1:79F3:2C8:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="RTL Spike" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tumblr10.png" group-title="Magyar",RTL Spike
+http://79.113.202.151:8001/1:0:1:1B6D:4C:46:E080000:0:0:0:
+
+
+
+
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="TV2" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tv2_lo10.png" group-title="Magyar",TV 2
+http://79.113.202.151:8001/1:0:1:7602:2BE:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="TV2" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tv2hd-10.png" group-title="Magyar",TV 2 HD
+http://79.113.202.151:8001/1:0:1:FBE:D:1:E082E2F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="SuperTV2" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/super_12.png" group-title="Magyar",Super TV2
+http://79.113.202.151:8001/1:0:1:555:4:1:E0830EF:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="SuperTV2" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/supert10.png" group-title="Magyar",Super TV2 HD
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=12740000
+
+   
+#EXTINF:-1 tvg-id="Fem3.hu" tvg-name="FEM3" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/fem3_n10.png" group-title="Magyar",Fem 3
+http://79.113.202.151:8001/1:0:1:78BA:2C5:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Prime" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/prime_10.png" group-title="Magyar",Prime
+http://79.113.202.151:8001/1:0:1:405:2:1:E0831B3:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Viasat3.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/viasat16.png" group-title="Magyar",Viasat 3
+http://79.113.202.151:8001/1:0:1:2B09:B:1111:E082F3C:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="VIASAT6.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tv6_li10.png" group-title="Magyar",Viasat 6
+http://79.113.202.151:8001/1:0:1:2B0A:B:1111:E082F3C:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="STORY4" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/story_10.png" group-title="Magyar",Story 4
+http://79.113.202.151:8001/1:0:1:A50:5:1:E083113:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="STORY5" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/story_11.png" group-title="Magyar",Story 5
+http://79.113.202.151:8001/1:0:1:7798:2C2:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Galaxy" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/ffgdfg10.png" group-title="Magyar",Galaxy
+http://79.113.202.151:8001/1:0:1:3F2:5:1111:E082DE3:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="MagyarATV.hu" tvg-name="ATV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/atv10.png" group-title="Magyar",ATV 
+http://79.113.202.151:8001/1:0:1:5E8:4:1:E0830EF:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="MagyarATV.hu" tvg-name="ATV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/atvhd10.png" group-title="Magyar",ATV HD
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=11390000
+
+
+   
+#EXTINF:-1 tvg-id="D1tv.hu" tvg-name="D1 TV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/d110.png" group-title="Magyar",D1 Tv
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=12640000
+
+   
+#EXTINF:-1 tvg-id="Hatoscsatorna.hu" tvg-name="Hatoscsatorna" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/hatos10.png" group-title="Magyar",Hatoscsatorna
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=12780000
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Fix" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/fix_tv10.png" group-title="Magyar",Fix
+http://fixhd.tv:8081/fix/sd.stream/playlist.m3u8
+
+
+   
+#EXTINF:-1 tvg-id="Hetitv.hu" tvg-name="Heti TV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/hetitv11.png" group-title="Magyar",Heti Tv
+https://www.youtube.com/watch?v=1p17uAKVnn8
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="PAX Tv" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/paxtv-10.png" group-title="Magyar",Pax Tv
+http://79.113.202.151:8001/1:0:1:402:2:1:E0831B3:0:0:0:
+
+
+
+   
+#EXTINF:-1 tvg-id="Bonumtv.hu" tvg-name="Bonum TV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/logo13.png" group-title="Magyar",Bonum Tv
+http://cdn.y5.hu/stream/bonum/hls/stream.m3u8
+
+
+
+   
+#EXTINF:-1 tvg-id="Budapesteuropatv.hu" tvg-name="Budapest Európa Televízió" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/bpetv10.png" group-title="Magyar",Budapest Európa Televízió
+http://cloudfront44.lexanetwork.com:1730/HDE021/hls/livestream.sdp.m3u8
+
+   
+#EXTINF:-1 tvg-id="Erdelytv.hu" tvg-name="Erdély TV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/3_erde10.png" group-title="Magyar",Erdély TV
+https://www.youtube.com/watch?v=xDkYHpsKJ_k
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Pannon RTV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/pannon10.png" group-title="Magyar",Pannon RTV
+http://79.172.194.189/hls/pannonrtv/live.m3u8
+
+
+#EXTINF:-1 tvg-id="id1" tvg-name="williamstv" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/logo12.png" group-title="Magyar",Williams Tv
+http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
+
+
+
+
+
+
+#EXTM3U Film
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Mozi+" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/mozi_l11.png" group-title="Film",Mozi+
+http://79.113.202.151:8001/1:0:1:766B:2BF:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Film+" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/film_p12.png" group-title="Film",Film+
+http://79.113.202.151:8001/1:0:1:75FB:2BE:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Film+" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/film_l10.png" group-title="Film",Film+ HD
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=11340000
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="RTL+" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/rtlplu10.png" group-title="Film",RTL+
+http://79.113.202.151:8001/1:0:1:79ED:2C8:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Sorozat+" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/soroza11.png" group-title="Film",Sorozat+
+http://79.113.202.151:8001/1:0:1:79EE:2C8:600:E080000:0:0:0:
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Cool" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/image_12.png" group-title="Film",Cool
+http://79.113.202.151:8001/1:0:1:5FA:3:1:E083163:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Cool" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cool_h11.png" group-title="Film",Cool HD
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=11300000
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Paramount Channel" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/paramo11.png" group-title="Film",Paramount Channel
+http://79.113.202.151:8001/1:0:1:1F5:1B:2C0:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="ParamountChannel.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/paramo11.png" group-title="Film",Paramount Channel RO
+http://79.113.202.151:8001/1:0:1:3E9:5:1111:E082DE3:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="DIGI Film" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_f12.png" group-title="Film",DIGI Film
+http://79.113.202.151:8001/1:0:1:41A:3:1:E083163:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="AMC" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/amc_lo10.png" group-title="Film",AMC
+http://79.113.202.151:8001/1:0:1:778C:2C2:600:E080000:0:0:0:
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Film Mánia" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/film_m12.png" group-title="Film",Film Mánia
+http://79.113.202.151:8001/1:0:1:76CF:2C0:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Film Cafe" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/film_c12.png" group-title="Film",Film Cafe
+http://79.113.202.151:8001/1:0:1:7663:2BF:600:E080000:0:0:0:
+
+
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="AXN" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/axn-lo10.png" group-title="Film",AXN
+http://79.113.202.151:8001/1:0:1:2AFC:B:1111:E082F3C:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="AXN" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/axn_hd10.png" group-title="Film",AXN HD
+http://79.113.202.151:8001/1:0:1:2AFC:B:1111:E082F3C:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="AXNSciFi.ro" tvg-name="AXN Black" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/axn_bl11.png" group-title="Film",AXN Black
+http://79.113.202.151:8001/1:0:1:2AFB:B:1111:E082F3C:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="AXNCrime.ro" tvg-name="AXN White" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/axn_wh11.png" group-title="Film",AXN White
+http://79.113.202.151:8001/1:0:1:2AFA:B:1111:E082F3C:0:0:0:
+
+
+
+   
+
+
+   
+#EXTINF:-1 tvg-id="SonyMax.hu" tvg-name="SonyMax.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/sony_m10.png" group-title="Film",Sony Max
+http://79.113.202.151:8001/1:0:1:2B0B:B:1111:E082F3C:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="SonyMovie.hu" tvg-name="SonyMovie.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/sony-m10.png" group-title="Film",Sony Movie Channel
+http://79.113.202.151:8001/1:0:1:2B0C:B:1111:E082F3C:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="HBO" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/hbo10.png" group-title="Film",HBO
+http://79.113.202.151:8001/1:0:1:A64:5:1:E083113:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="HBO" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/hbo_hd10.png" group-title="Film",HBO HD
+http://79.113.202.151:8001/1:0:19:791D:2C6:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="HBO 2" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/hbo_210.png" group-title="Film",HBO 2
+http://79.113.202.151:8001/1:0:1:77F1:2C3:600:E080000:0:0:0:
+
+   
+
+
+   
+#EXTINF:-1 tvg-id="HBO3.hu" tvg-name="HBO 3" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/hbo_3_10.png" group-title="Film",HBO 3
+http://79.113.202.151:8001/1:0:1:D98:C:1:E082E7C:0:0:0:
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Cinemax" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinema10.png" group-title="Film",Cinemax
+http://79.113.202.151:8001/1:0:1:3FF:2:1:E0831B3:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Cinemax 2" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinema11.png" group-title="Film",Cinemax 2
+http://79.113.202.151:8001/1:0:1:78C2:2C5:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Filmbox" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/filmbo17.png" group-title="Film",Filmbox
+http://79.113.202.151:8001/1:0:1:3F3:5:1111:E082DE3:0:0:0:
+
+  
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Filmbox Family" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/filmbo19.png" group-title="Film",Filmbox Family
+http://79.113.202.151:8001/1:0:1:75F9:2BE:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Filmbox Plus" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/filmbo20.png" group-title="Film",Filmbox Plus
+http://79.113.202.151:8001/1:0:1:7609:2BE:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Filmbox Extra" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/filmbo21.png" group-title="Film",Filmbox Extra
+http://79.113.202.151:8001/1:0:19:773B:2C1:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="FilmboxExtraHD.hu" tvg-name="Filmbox Extra HD" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/filmbo21.png" group-title="Film",Filmbox Extra HD
+http://79.113.202.151:8001/1:0:19:773B:2C1:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Filmbox Premium" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/filmbo22.png" group-title="Film",Filmbox Premium
+http://79.113.202.151:8001/1:0:16:772B:2C1:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="FOX" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/fox10.png" group-title="Film",Fox
+http://79.113.202.151:8001/1:0:1:79E5:2C8:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Humor+" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/kypkiv10.png" group-title="Film",Humor+
+http://79.113.202.151:8001/1:0:1:779B:2C2:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Comedy Central" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/1200px13.png" group-title="Film",Comedy Central
+http://79.113.202.151:8001/1:0:1:1F7:1B:2C0:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="ComedyCentralFamily.hu" tvg-name="Comedy Central Family" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/comedy12.png" group-title="Film",Comedy Central Family
+http://79.113.202.151:8001/1:0:1:1F6:1B:2C0:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Izaura TV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/izaura10.png" group-title="Film",Izaura TV
+http://79.113.202.151:8001/1:0:1:79F7:2C8:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Romance Tv" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/romanc10.png" group-title="Film",Romance Tv
+http://79.113.202.151:8001/1:0:1:797F:2C7:600:E080000:0:0:0:
+
+
+
+
+#EXTM3U Dokumentum
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Spektrum" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/spektr10.png" group-title="Dokumentum",Spektrum
+http://79.113.202.151:8001/1:0:1:77F8:2C3:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Spektrum" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/spektr11.png"audio-track="hu" group-title="Dokumentum",Spektrum HD
+http://79.113.202.151:8001/1:0:1:2D7:C9A:3:EB0000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="SpektrumHome.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/spektr12.png" group-title="Dokumentum",Spektrum Home
+http://79.113.202.151:8001/1:0:1:7666:2BF:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="DOQ" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/doq10.png" group-title="Dokumentum",DOQ
+http://79.113.202.151:8001/1:0:1:3EF:5:1111:E082DE3:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Viasat Explore" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/viasat12.png" group-title="Dokumentum",Viasat Explore
+http://79.113.202.151:8001/1:0:1:C94:A:1:E08B113:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Viasat History" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/viasat13.png"audio-track="hu" group-title="Dokumentum",Viasat History
+http://79.113.202.151:8001/1:0:1:54E:2:1:E0831B3:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Viasat Nature" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/viasat14.png" group-title="Dokumentum",Viasat Nature
+http://79.113.202.151:8001/1:0:1:CC6:A:1:E08B113:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="Viasatnature2.hu" tvg-name="Viasatnature2.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/viasat15.png" group-title="Dokumentum",Viasat Nature/History HD
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=12310000
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="National Geographic" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/nation10.png" group-title="Dokumentum",National Geographic
+http://79.113.202.151:8001/1:0:1:B50:7:1:E08313F:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="NationalGeographicHD.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/nat_ge10.png" group-title="Dokumentum",Nat Geo HD
+http://79.113.202.151:8001/1:0:19:2329:9:1111:E08AE69:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="NatGeoWild.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/nat_ge11.png" group-title="Dokumentum",Nat Geo Wild
+http://79.113.202.151:8001/1:0:1:77F7:2C3:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="NatGeoWildHD.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/nat_ge12.png" group-title="Dokumentum",Nat Geo Wild HD
+http://79.113.202.151:8001/1:0:19:7725:2C1:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="BBCEarth.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/92588810.png"audio-track="hu" group-title="Dokumentum",BBC Earth
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=11330000
+
+   
+#EXTINF:-1 tvg-id="BBCEarth.hu" tvg-name="BBCEarth.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/92588810.png" group-title="Dokumentum",BBC Earth HD
+http://79.113.202.151:8001/1:0:19:1C06:29:46:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="OzoneNetwork.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/logo_o10.png" group-title="Dokumentum",OzoneNetwork
+http://79.113.202.151:8001/1:0:1:A82:4:1:E0830EF:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="Lifenetwork.hu" tvg-name="Lifenetwork.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/21830510.png" group-title="Dokumentum",Life Network
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=12880000
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="HISTORY.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/histor11.png" group-title="Dokumentum",History
+http://79.113.202.151:8001/1:0:1:798A:2C7:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="Historyhd.hu" tvg-name="Historyhd.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/histor10.png" group-title="Dokumentum",History HD
+http://79.113.202.151:8001/1:0:19:773C:2C1:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="H2.uk" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/h2hd10.png" group-title="Dokumentum",H2 HD
+http://79.113.202.151:8001/1:0:19:1C16:29:46:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="id1" tvg-name="DiscoveryChannel.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/discov10.png" group-title="Dokumentum",Discovery Channel
+http://79.113.202.151:8001/1:0:1:A0A:5:1:E083113:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="DiscoveryChannel.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/discov11.png" group-title="Dokumentum",Discovery HD
+http://79.113.202.151:8001/1:0:1:9C5:2:5E:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="DiscoveryHDShowcase.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/discov12.png" group-title="Dokumentum",Discovery HD Showcase
+http://79.113.202.151:8001/1:0:19:7921:2C6:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="DiscoveryScience.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/discov10.jpg" group-title="Dokumentum",Discovery Science
+http://79.113.202.151:8001/1:0:1:77F2:2C3:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="DTX.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/dtx_di10.png" group-title="Dokumentum",Discovery Turbo Xtra
+http://79.113.202.151:8001/1:0:1:77FA:2C3:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="TLC.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/discov13.png" group-title="Dokumentum",TLC
+http://79.113.202.151:8001/1:0:1:CBC:A:1:E08B113:0:0:0:
+
+
+
+
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="AnimalPlanet.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/animal10.png" group-title="Dokumentum",Animal Planet
+http://79.113.202.151:8001/1:0:1:77F0:2C3:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="Animalplanethd.hu" tvg-name="Animalplanethd.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/animal11.png" group-title="Dokumentum",Animal Planet HD
+http://79.113.202.151:8001/1:0:19:7923:2C6:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="DigiWorld.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_w10.png" group-title="Dokumentum",DIGI World  http://178.164.223.68:8101/dvblink/direct?client=66512ca8f054a4a0a886500a6d08ceb6&channel=12360000
+
+#EXTINF:-1 tvg-id="DigiWorld.hu" tvg-name="DigiWorld.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_w10.png" group-title="Dokumentum",DIGI World
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=12360000
+
+#EXTINF:-1 tvg-id="DigiWorld.hu" tvg-name="DigiWorld.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_w10.png" group-title="Dokumentum",DIGI World HD
+http://79.113.202.151:8001/1:0:1:FD2:D:1:E082E2F:0:0:0:
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="DigiAnimalWorld.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_a10.png" group-title="Dokumentum",DIGI Animal World
+http://79.113.202.151:8001/1:0:1:177A:7:1:E08313F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Digi Animal World" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_a10.png" group-title="Dokumentum",DIGI Animal World HD
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=12900000
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="DigiLife.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_l10.png" group-title="Dokumentum",DIGI Life
+http://79.113.202.151:8001/1:0:1:403:2:1:E0831B3:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="DigiLife.hu" tvg-name="DigiLife.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_l10.png" group-title="Dokumentum",DIGI Life HD
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=12900000
+
+   
+#EXTINF:-1 tvg-id="Cbsreality.hu" tvg-name="Cbsreality.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cbs_re10.png" group-title="Dokumentum",CBS Reality
+http://79.113.202.151:8001/1:0:1:78B9:2C5:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="TravelChannel.hu" tvg-name="TravelChannel.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/travel11.png" group-title="Dokumentum",Travel Channel
+http://79.113.202.151:8001/1:0:1:A5A:7:1:E08313F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="TravelChannel.hu" tvg-name="TravelChannel.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/travel10.png" group-title="Dokumentum",Travel Channel HD
+http://79.113.202.151:8001/1:0:19:791B:2C6:600:E080000:0:0:0:
+
+
+
+
+#EXTINF:-1 tvg-id="id1" tvg-name="DaVinciLearning.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/da_vin10.png" group-title="Dokumentum",Da Vinci Learning
+http://79.113.202.151:8001/1:0:1:B90:7:1:E08313F:0:0:0:
+
+
+#EXTINF:-1 tvg-id="id1" tvg-name="E!.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/e_logo10.png"audio-track="hu" group-title="Dokumentum",E! Entertainment
+http://79.113.202.151:8001/1:0:1:CD0:A:1:E08B113:0:0:0:
+
+
+
+
+
+#EXTINF:-1 tvg-id="id1" tvg-name="FoodNetwork.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/food_n10.png" group-title="Dokumentum",Food Network
+http://79.113.202.151:8001/1:0:1:765F:2BF:600:E080000:0:0:0:
+
+
+#EXTINF:-1 tvg-id="id1" tvg-name="FineLiving.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/fine_l10.png" group-title="Dokumentum",Fine Living
+http://79.113.202.151:8001/1:0:1:76C5:2C0:600:E080000:0:0:0:
+
+
+#EXTINF:-1 tvg-id="id1" tvg-name="TVPaprika.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/paprik10.png" group-title="Dokumentum",TV Paprika
+http://79.113.202.151:8001/1:0:1:60E:4:1:E0830EF:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Chili TV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/chili_10.png" group-title="Dokumentum",Chili TV
+http://79.113.202.151:8001/1:0:1:766F:2BF:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="id1" tvg-name="FishingHunting.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the_fi10.png" group-title="Dokumentum",Fishing and Hunting
+http://79.113.202.151:8001/1:0:1:3EE:5:1111:E082DE3:0:0:0:
+
+
+#EXTINF:-1 tvg-id="FishingHunting.hu" tvg-name="FishingHunting.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the_fi10.png" group-title="Dokumentum",Fishing and Hunting HD
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=12870000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U Magyar Mese
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Kiwi TV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/kiwi_t10.png" group-title="Mese",Kiwi Tv
+http://79.113.202.151:8001/1:0:1:76D1:2C0:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="CartoonNetworkTCM.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cartoo10.png" group-title="Mese",Cartoon Network
+http://79.113.202.151:8001/1:0:1:550:4:1:E0830EF:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Boomerang.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/boomer10.png" group-title="Mese",Boomerang
+http://79.113.202.151:8001/1:0:1:77F6:2C3:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Minimax.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/minima10.png" group-title="Mese",Minimax
+http://79.113.202.151:8001/1:0:1:7605:2BE:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Megamax" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/megama10.png" group-title="Mese",Megamax
+http://79.113.202.151:8001/1:0:1:797D:2C7:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="JimJam.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/jimjam10.png" group-title="Mese",JimJam
+http://79.113.202.151:8001/1:0:1:77EE:2C3:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Nickelodeon.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/nickel10.png" group-title="Mese",Nickelodeon
+http://79.113.202.151:8001/1:0:1:3EA:5:1111:E082DE3:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Nickjr.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/nickjr10.png" group-title="Mese",Nick Jr.
+http://79.113.202.151:8001/1:0:1:3F0:5:1111:E082DE3:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="DisneyChannel.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/disney10.png" group-title="Mese",Disney Channel
+http://79.113.202.151:8001/1:0:1:3F0:5:1111:E082DE3:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="DisneyJr.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/disney11.png" group-title="Mese",Disney Junior
+http://79.113.202.151:8001/1:0:1:D7A:C:1:E082E7C:0:0:0:
+
+
+
+#EXTINF:-1 tvg-id="Ducktv.hu" tvg-name="Ducktv.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/600px-10.png" group-title="Mese",Duck Tv
+http://79.113.202.151:8001/1:0:1:77F9:2C3:600:E080000:0:0:0:
+
+
+
+
+
+
+#EXTM3U Magyar Zene
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Zenebutik" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/zenebu10.jpg" group-title="Zene",Zenebutik
+http://79.113.202.151:8001/1:0:1:798E:2C7:600:E080000:0:0:0:
+
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="SlagerTV.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/logo-w10.png" group-title="Zene",Slager Tv
+http://79.113.202.151:8001/1:0:1:CE4:A:1:E08B113:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="MuzsikaTV.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/muzsik10.png" group-title="Zene",Muzsika Tv
+http://79.113.202.151:8001/1:0:1:79EF:2C8:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Htmusicchannel.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/hitmus10.png" group-title="Zene",H!T Music Channel
+http://79.113.202.151:8001/1:0:1:A1E:5:1:E083113:0:0:0:
+
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="MusicChannel.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/72588310.png" group-title="Zene",Music Channel
+http://79.113.202.151:8001/1:0:1:A14:5:1:E083113:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Music Channel" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/72588310.png" group-title="Zene",Music Channel HD
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=11430000
+
+
+   
+#EXTINF:-1 tvg-id="MTVHungary.hu" tvg-name="MTVHungary.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/mtv_ro10.jpg" group-title="Zene",MTV 
+http://79.113.202.151:8001/1:0:1:1FA:1B:2C0:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="MTVDance.no" tvg-name="MTVDance.no" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/mtv_da10.png" group-title="Zene",MTV Dance
+http://79.113.202.151:8001/1:0:1:1FD:1B:2C0:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="MTVHits.ro" tvg-name="MTVHits.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/mtv_hi10.png" group-title="Zene",MTV Hits
+http://79.113.202.151:8001/1:0:1:1FC:1B:2C0:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="MTVRocks.uk" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/mtv_ro10.png" group-title="Zene",MTV Rocks
+http://79.113.202.151:8001/1:0:1:1FF:1B:2C0:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="VH1.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/vh_1-110.png" group-title="Zene",VH1
+http://79.113.202.151:8001/1:0:1:1FB:1B:2C0:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="vh1-europe" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/vh1_cl10.png" group-title="Zene",VH1 Classic
+http://79.113.202.151:8001/1:0:1:1FE:1B:2C0:E080000:0:0:0:
+
+
+#EXTINF:-1 tvg-id="id1" tvg-name="TVd1" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/images10.jpg" group-title="Zene",TVd 1
+http://stream02.tvd1.hu:8081/tvdp1_live/sd/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTM3U Sport
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="M4 Sport" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m4_hd10.png" group-title="Sport",M4 Sport 
+http://79.113.202.151:8001/1:0:1:DA2:C:1:E082E7C:0:0:0:
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="M4 sport" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m4_hd10.png" group-title="Sport",M4 Sport HD
+http://79.113.202.151:8001/1:0:19:791E:2C6:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="SpilerTV.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/spyler11.png" group-title="Sport",Spiler Tv
+http://79.113.202.151:8001/1:0:1:7610:2BE:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="Eurosport1.hu" tvg-name="EuroSport1.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/eurosp12.png" group-title="Sport",EuroSport
+http://79.113.202.151:8001/1:0:1:78B5:2C5:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="Eurosport1.hu" tvg-name="EuroSport1.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/eurosp14.png" group-title="Sport",EuroSport HD
+http://79.113.202.151:8001/1:0:19:7DF:AF2:BB:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="Eurosport2.hu" tvg-name="EuroSport2.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/eurosp15.png" group-title="Sport",EuroSport 2
+http://79.113.202.151:8001/1:0:1:77FE:2C3:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="Eurosport2.hu" tvg-name="EuroSport2.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/eurosp13.png" group-title="Sport",EuroSport 2 HD
+http://79.113.202.151:8001/1:0:19:7E0:AF2:BB:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="DigiSport1.hu" tvg-name="DigiSport1.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_s11.png" group-title="Sport",DigiSport 1
+http://79.113.202.151:8001/1:0:1:49C:3:1:E083163:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="DigiSport1.hu" tvg-name="DigiSport1.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_s10.png" group-title="Sport",DigiSport 1 HD
+http://79.113.202.151:8001/1:0:1:FB4:D:1:E082E2F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="DigiSport2.hu" tvg-name="DigiSport2.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_s13.png" group-title="Sport",DigiSport 2
+http://79.113.202.151:8001/1:0:1:4A3:3:1:E083163:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="DigiSport2.hu" tvg-name="DigiSport2.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_s13.png" group-title="Sport",DigiSport 2 HD
+http://79.113.202.151:8001/1:0:1:FDC:D:1:E082E2F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="DigiSport3.hu" tvg-name="DigiSport3.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_s12.png" group-title="Sport",DigiSport 3
+http://79.113.202.151:8001/1:0:1:407:3:1:E083163:0:0:0: 
+
+   
+#EXTINF:-1 tvg-id="DigiSport3.hu" tvg-name="DigiSport3.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_s12.png" group-title="Sport",DigiSport 3 HD
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=11590000
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Sport1.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/sport110.png" group-title="Sport",Sport 1
+http://79.113.202.151:8001/1:0:1:7598:2BD:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Sport1.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/sport111.png" group-title="Sport",Sport 1 HD
+http://79.113.202.151:8001/1:0:19:7727:2C1:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Sport2.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/sport211.png" group-title="Sport",Sport 2
+http://79.113.202.151:8001/1:0:1:75FD:2BE:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Sport2.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/kypkiv11.png" group-title="Sport",Sport 2 HD
+http://79.113.202.151:8001/1:0:19:7729:2C1:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="SportM.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/sport_13.png" group-title="Sport",Sport M
+http://79.113.202.151:8001/1:0:1:798C:2C7:600:E080000:0:0:0:
+
+
+
+   
+#EXTINF:-1 tvg-id="ExtremeSports.hu" tvg-name="ExtremeSports.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/extrem10.png" group-title="Sport",Extreme Sports
+http://79.113.202.151:8001/1:0:1:77ED:2C3:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="MotorSport.tv.nl" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/auto_m10.png" group-title="Sport",Auto Motor Sport
+http://79.113.202.151:8001/1:0:1:778E:2C2:600:E080000:0:0:0:
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U Hirek
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Hír TV" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/hirtv-10.png" group-title="Hirek",Hir Tv
+http://79.113.202.151:8001/1:0:1:7790:2C2:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="EchoTV.hu" tvg-name="Echo Tv" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/echotv10.png" group-title="Hirek",Echo Tv
+http://79.113.202.151:8001/1:0:1:7604:2BE:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="Euronews.hu" tvg-name="Euronews.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/eurone10.png" group-title="Hirek",Euronews
+http://euronews-hu-p7-cdn.hexaglobe.net/9b2f97eb92f24473a5a285d284932237/5a2d0f85/euronews/euronews-euronews-website-web-responsive-2/ewnsabrhupri_hun.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="id2" tvg-name="TVR1.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tvrhd10.png" group-title="Roman",TVR HD
+http://79.113.202.151:8001/1:0:1:19:E6:1:FFFF0000:0:0:0:
+
+
+
+#EXTINF:-1 tvg-id="id2" tvg-name="TVR1.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tvr_110.png" group-title="Roman",TVR 1
+http://79.113.202.151:8001/1:0:1:3E9:1:1:E08318F:0:0:0:
+
+#EXTINF:-1 tvg-id="id2" tvg-name="TVR2.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tvr210.png" group-title="Roman",TVR 2
+http://79.113.202.151:8001/1:0:1:3ED:4:1:E0830EF:0:0:0:
+
+#EXTINF:-1 tvg-id="id2" tvg-name="TVR3.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tvr310.png" group-title="Roman",TVR 3
+http://79.113.202.151:8001/1:0:1:7792:2C2:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="id2" tvg-name="TVRTarguMures.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tvr_ta10.png" group-title="Roman",TVR Târgu-Mures
+http://89.136.209.30:1935/liveedge/TVRTGMURES.stream/chunklist_w1852922647.m3
+
+#EXTINF:-1 tvg-id="id2" tvg-name="TVRCluj.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tvr_cl10.png" group-title="Roman",TVR Cluj
+http://89.136.209.29:1935/liveedge/TVRCLUJ.stream/chunklist_w1493614744.m3u8
+
+
+
+
+
+
+   
+#EXTINF:-1 tvg-id="PROTV.ro" tvg-name="PROTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/1273_110.jpg" group-title="Roman",PRO TV
+http://79.113.202.151:8001/1:0:1:3EB:2:1:E0831B3:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="PROTV.ro" tvg-name="PROTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/pro_tv10.png" group-title="Roman",PRO TV HD
+http://79.113.202.151:8001/1:0:1:FFA:D:1:E082E2F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="ProTVInternational.ro" tvg-name="ProTVInternational.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/1200px10.png" group-title="Roman",PRO TV Internaþional
+http://79.113.202.151:8001/1:0:1:B9A:7:1:E08313F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="PROCinema.ro" tvg-name="PROCinema.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/pro-ci10.png" group-title="Roman",PRO Cinema
+http://79.113.202.151:8001/1:0:1:492:7:1:E08313F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="PRO 2" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/2000px10.png" group-title="Roman",PRO 2
+http://79.113.202.151:8001/1:0:1:55C:4:1:E0830EF:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="PRO Gold" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/1200px11.png" group-title="Roman",PRO Gold
+http://79.113.202.151:8001/1:0:1:55A:4:1:E0830EF:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="PRO X" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/1200px12.png" group-title="Roman",PRO X
+http://79.113.202.151:8001/1:0:1:3F7:4:1:E0830EF:0:0:0:
+
+
+
+
+
+
+
+
+
+
+
+   
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena1.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/antena11.png" group-title="Roman",Antena 1
+http://79.113.202.151:8001/1:0:1:76CC:2C0:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena1.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/antena11.png" group-title="Roman",Antena 1 HD
+http://79.113.202.151:8001/1:0:19:7925:2C6:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Antena2.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/antena10.png" group-title="Roman",Antena Stars
+http://79.113.202.151:8001/1:0:1:78C5:2C5:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Antena3.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/antena11.jpg" group-title="Roman",Antena 3
+http://79.113.202.151:8001/1:0:1:76C1:2C0:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="B1TV.ro" tvg-name="B1TV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/b1_log10.jpg" group-title="Roman",B 1
+http://79.113.202.151:8001/1:0:1:3F0:1:1:E08318F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="KanalD.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/kanal_10.png" group-title="Roman",Kanal D
+http://79.113.202.151:8001/1:0:1:B86:7:1:E08313F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="PrimaTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/prima_10.png" group-title="Roman",Prima
+http://79.113.202.151:8001/1:0:1:3EE:1:1:E08318F:0:0:0:
+
+
+
+
+
+
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="NO" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/mtuxnt10.png" group-title="Roman",Agro Tv
+http://79.113.202.151:8001/1:0:1:D48:C:1:E082E7C:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="NationalTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/nation11.png" group-title="Roman",National Tv
+http://79.113.202.151:8001/1:0:1:DB6:C:1:E082E7C:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="National24plus.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/400px-10.png" group-title="Roman",N24
+http://79.113.202.151:8001/1:0:1:778B:2C2:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="RomaniaTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/romani10.png" group-title="Roman",Romania Tv
+http://79.113.202.151:8001/1:0:1:4A1:7:1:E08313F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="RealitateaTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/realit10.png" group-title="Roman",Realitatea Tv
+http://79.113.202.151:8001/1:0:1:6E:C9:1:FFFF0000:0:0:0:
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Digi24.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi2410.png" group-title="Roman",Digi 24
+http://79.113.202.151:8001/1:0:1:3F6:7:1:E08313F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Digi24.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi2410.png" group-title="Roman",Digi 24 HD
+http://79.113.202.151:8001/1:0:1:5A:65:1:FFFF0000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="DigiFilm.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_f11.png" group-title="Roman",DIGI Film
+http://79.113.202.151:8001/1:0:1:156:FB:1:FFFF0000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="DigiFilm.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_f11.png" group-title="Roman",DIGI Film HD
+http://79.113.202.151:8001/1:0:1:3EE:1:1:E08318F:0:0:0:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="DigiSport1.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_s15.png" group-title="Roman",DIGI Sport 1
+http://79.113.202.151:8001/1:0:1:3F5:7:1:E08313F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="DigiSport1.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_s14.png" group-title="Roman",DIGI Sport 1 HD
+http://79.113.202.151:8001/1:0:1:FE6:D:1:E082E2F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="DigiSport2.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_s16.png" group-title="Roman",DIGI Sport 2
+http://79.113.202.151:8001/1:0:1:96:66:1:FFFF0000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="DigiSport2.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_s16.png" group-title="Roman",DIGI Sport 2 HD
+http://79.113.202.151:8001/1:0:1:FF0:D:1:E082E2F:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="DigiSport3.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digi_s17.png" group-title="Roman",DIGI Sport 3
+http://79.113.202.151:8001/1:0:1:40C:C:1:E082E7C:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="DigiSport4.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/digisp10.png" group-title="Roman",DIGI Sport 4
+http://79.113.202.151:8001/1:0:1:BD1:AF3:BB:E080000:0:0:0:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="LookTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/look_t10.png" group-title="Roman",Look Tv
+http://79.113.202.151:8001/1:0:1:DDE:C:1:E082E7C:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="LookPlus.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/look_p10.png" group-title="Roman",Look Plus
+http://79.113.202.151:8001/1:0:1:D84:C:1:E082E7C:0:0:0
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="TV1000.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tv_10010.png" group-title="Roman",TV 1000
+http://79.113.202.151:8001/1:0:1:62C:2:1:E0831B3:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="HappyTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/eufori10.png" group-title="Roman",Happy Channel
+http://79.113.202.151:8001/1:0:1:7667:2BF:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="NeptunTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/6834110.jpg" group-title="Roman",Tv Neptun
+http://79.113.202.151:8001/1:0:1:D52:2:1:E0831B3:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="DivaUniversal.ro" tvg-name="DivaUniversal.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/diva_u10.png" group-title="Roman",Diva
+http://79.113.202.151:8001/1:0:1:3F4:2:1:E0831B3:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="EtnoTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/etno_t10.png" group-title="Roman",Etno
+http://79.113.202.151:8001/1:0:1:DC0:C:1:E082E7C:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Favorit.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/favori10.png" group-title="Roman",Favorit Tv
+http://79.113.202.151:8001/1:0:1:55F:4:1:E0830EF:0:0:0:
+
+
+
+
+
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="FashionTV.uk" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/mzl_ui10.png" group-title="Roman",Fashion Tv
+http://79.113.202.151:8001/1:0:1:C80:A:1:E08B113:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="HoraTV.ro" tvg-name="HoraTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/hora_t10.png" group-title="Roman",Hora Tv
+http://79.113.202.151:8001/1:0:1:DAC:4:1:E0830EF:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="TarafTV.ro" tvg-name="TarafTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/taraf_10.png" group-title="Roman",Taraf
+http://79.113.202.151:8001/1:0:1:D34:C:1:E082E7C:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Speranta.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/speran10.png" group-title="Roman",Speranta Tv
+http://79.113.202.151:8001/1:0:1:CDA:A:1:E08B113:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="TrinitasTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/trinit10.png" group-title="Roman",Trinitas
+http://79.113.202.151:8001/1:0:1:D8E:C:1:E082E7C:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="TVH.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/logo10.png" group-title="Roman",TvH
+http://79.113.202.151:8001/1:0:1:D2A:1:1:E08318F:0:0:0:
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+#EXTINF:-1 tvg-id="H!TMusic.ro" tvg-name="H!TMusic.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/hitmus11.png" group-title="Roman",H!T Music
+http://79.113.202.151:8001/1:0:1:3EC:7:1:E08313F:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="ZUTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/zu-log10.png" group-title="Roman",Zu Tv
+http://79.113.202.151:8001/1:0:1:7793:2C2:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/u_tv10.png" group-title="Roman",U Tv
+http://79.113.202.151:8001/1:0:1:3F3:1:1:E08318F:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/u_tv10.png" group-title="Roman",U Tv HD
+http://79.113.202.151:8001/1:0:1:1B3:CF:1:FFFF0000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="" tvg-name="NO" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/zatom10.png" group-title="Roman",Atomic
+rtmp://5.154.185.153/live/live
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Cnnenglish.hu" tvg-name="Cnnenglish.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cnn_lo10.png" group-title="Külföldi csatornák",CNN
+http://79.113.202.151:8001/1:0:1:79E3:2C8:600:E080000:0:0:0:
+
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="CNBC.nws" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/1000px10.png" group-title="Külföldi csatornák",CNBC Europe
+http://79.113.202.151:8001/1:0:16:772C:2C1:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="Skynewsenglish.hu" tvg-name="Skynewsenglish.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/sky-ne10.png" group-title="Külföldi csatornák",Sky News
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=12390000
+
+#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cctv-410.png" group-title="Külföldi csatornák",CCTV4
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=11550000
+
+
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat1.de" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/sat_1_10.png" group-title="Külföldi csatornák",Sat 1
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=12550000
+
+
+
+
+
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="rtl.de" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/rtl_lo10.png" group-title="Külföldi csatornák",RTL
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=11720000
+
+
+
+
+
+#EXTINF:-1 tvg-id="Pro7.ch" tvg-name="Pro7.ch" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/prosie10.png" group-title="Külföldi csatornák",Pro 7
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=12370000
+
+
+
+
+
+#EXTINF:-1 tvg-id="DeutscheWelleDE.de" tvg-name="DeutscheWelleDE.de" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/dw_tv_10.png" group-title="Külföldi csatornák",Deutsche Welle
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=11730000
+
+
+
+#EXTINF:-1 tvg-id="Bloombergenglish.hu" tvg-name="Bloombergenglish.hu" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/bloomb10.png" group-title="Külföldi csatornák",Bloomberg
+http://188.143.126.201:8101/dvblink/direct?client=04ff3bf7941e110bf4b8cad4430fb7dc&channel=11440000
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="ArenaSport1.sk" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/logo-a10.png" group-title="Külföldi csatornák",Arena Sport 1
+http://79.113.202.151:8001/1:0:1:79EB:2C8:600:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="ArenaSport1.sk" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/logo-a10.png" group-title="Külföldi csatornák",Arena Sport 1 HD
+http://79.113.202.151:8001/1:0:19:772A:2C1:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="CT24.cz" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/ct2410.png" group-title="Külföldi csatornák",CT 24
+http://79.113.202.151:8001/1:0:1:7796:2C2:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="CT4Sport.cz" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/231510.png" group-title="Külföldi csatornák",CT Sport
+http://79.113.202.151:8001/1:0:1:79E4:2C8:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="id1" tvg-name="CT4Sport.cz" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/1000px11.png" group-title="Külföldi csatornák",CT Sport HD
+http://79.113.202.151:8001/1:0:1:7924:2C6:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="NovaAction.cz" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/nova_a10.png" group-title="Külföldi csatornák",Nova Action
+http://79.113.202.151:8001/1:0:1:785A:2C4:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="NovaCinema.cz" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/nova_c10.png" group-title="Külföldi csatornák",Nova Cinema
+http://79.113.202.151:8001/1:0:1:7596:2BD:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="NovaSport1.cz" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/4610.png" group-title="Külföldi csatornák",Nova Sport 1
+http://79.113.202.151:8001/1:0:1:75FC:2BE:600:E080000:0:0:0:
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="FilmPlus.cz" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/filmpl10.png" group-title="Külföldi csatornák",Film+
+http://79.113.202.151:8001/1:0:1:765D:2BF:600:E080000:0:0:0:
+
+
+
+
+
+
+   
+
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Fightbox" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/fightb10.png" group-title="Külföldi csatornák",FightBox
+http://79.113.202.151:8001/1:0:16:7E5:AF2:BB:E080000:0:0:0:
+
+   
+#EXTINF:-1 tvg-id="id1" tvg-name="Docubox" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/docubo10.png" group-title="Külföldi csatornák",DocuBox
+http://79.113.202.151:8001/1:0:16:7E6:AF2:BB:E080000:0:0:0:
+
+
+
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/logo_r10.png" group-title="Külföldi csatornák",Rai 1
+http://79.113.202.151:8001/1:0:1:267:CE:1:FFFF0000:0:0:0:
+
+
+#EXTINF:-1 tvg-id="CGTN.us" tvg-name="cgtn" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cgtn-l10.png" group-title="Külföldi csatornák",CGTN
+http://79.113.202.151:8001/1:0:1:207:14:46:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="superone" tvg-name="superone" parent-code="2121" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/super_13.png" group-title="Külföldi csatornák",SuperOne
+http://79.113.202.151:8001/1:0:1:409:2:1:E0831B3:0:0:0:
+
+
+
+#EXTINF:-1 tvg-id="publika" tvg-name="publika" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/publik10.png" group-title="Külföldi csatornák",Publika Tv
+http://79.113.202.151:8001/1:0:1:414:3:1111:E08B0A8:0:0:0:
+
+
+
+#EXTINF:-1 tvg-id="TV3.no" tvg-name="TV3.no" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tv3_no10.png" group-title="Külföldi csatornák",TV3 (N)
+http://79.113.202.151:8001/1:0:1:1E17:47:46:E080000:0:0:0:
+
+
+
+
+#EXTINF:-1 tvg-id="TV1000.ro" tvg-name="TV1000.ro" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tv100010.png" group-title="Külföldi csatornák",TV 1000
+http://79.113.202.151:8001/1:0:1:62C:2:1:E0831B3:0:0:0:
+
+
+
+#EXTINF:-1 tvg-id="TV4.se" tvg-name="TV4.se" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tv410.png" group-title="Külföldi csatornák",TV4
+http://79.113.202.151:8001/1:0:1:642:1B:46:E080000:0:0:0:
+
+
+#EXTINF:-1 tvg-id="TV4Film.se" tvg-name="TV4Film.se" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tv4_fi10.png" group-title="Külföldi csatornák",TV4 Film
+http://79.113.202.151:8001/1:0:1:A90:1B:46:E080000:0:0:0:
+
+
+#EXTINF:-1 tvg-id="TV4Fakta.se" tvg-name="TV4Fakta.se" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tv4_fa10.png" group-title="Külföldi csatornák",TV4 Fakta
+http://79.113.202.151:8001/1:0:1:A96:1B:46:E080000:0:0:0:
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="2121" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/privat11.png" group-title="Külföldi csatornák",Private TV
+http://79.113.202.151:8001/1:0:1:78BD:2C5:600:E080000:0:0:0:
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="2121" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/2000px13.png" group-title="Külföldi csatornák",Hustler
+http://79.113.202.151:8001/1:0:1:78C8:2C5:600:E080000:0:0:0:
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U Filmek
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Karácsonyi vakáció
+http://video8.videa.hu/static/360p/5.1021216.2002653?md5=5QLA-aNrNnB0IjnMJX3RMA&expires=1512788979
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Karácsonyi vakáció 2
+http://video9.videa.hu/static/240p/5.1015219.902664?md5=ogg7bKfvPTRWdt4bBZTUFA&expires=1512789505
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Európai vakáció
+http://video6.videa.hu/static/240p/3.1134814.2037843?md5=P6rew-BJnrctAIUigLNdYw&expires=1512789625
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Szikraváros (2008)
+http://video3.videa.hu/static/360p/5.1037888.1502598?md5=tueaywDAkjxpxHXoW1oAyg&expires=1512788284
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Dennis a komisz (1983) 
+http://video2.videa.hu/static/360p/5.1035574.2006866?md5=7s7WuMhVnPlTVipruFXTSA&expires=1512789826
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Dennis, a komisz karácsonya
+http://video4.videa.hu/static/360p/5.1020007.2002126?md5=EdnIVOW1Bt4Q3emC4zqEFQ&expires=1512789889
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Dennis, a komisz ismét pimasz
+http://video1.videa.hu/static/video/3.898914.1898682?md5=YDVg69eKs4Ep5J0DHlPG2Q&expires=1512789991
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Reszkessetek betörõk!
+http://video8.videa.hu/static/240p/3.1019937.2002653?md5=1vZWMCOVUcHQXmyy_fN2cg&expires=1512790161
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Reszkessetek betörõk! 2
+http://video8.videa.hu/static/240p/5.1021235.2002653?md5=6AXIXWDkaz5OACIB0BKDHg&expires=1512790214
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Reszkessetek betörõk! 3
+http://video8.videa.hu/static/video/2.786247.1714635?md5=2RExYJuRELLym58pC83AYg&expires=1512790260
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Reszkessetek betörõk! 4
+http://video4.videa.hu/static/video/3.902659.1898682?md5=zEkYK9-vK8vxXpuj2f52FA&expires=1512790301
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Reszkessetek betörõk! 5
+http://video6.videa.hu/static/360p/2.1021199.1974644?md5=hvvWdFKzgi_sFFuoT4a6Sg&expires=1512790358
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",A szomszéd nõje mindig zöldebb
+http://video4.videa.hu/static/240p/5.955020.939954?md5=CpF4Eo-MKDtXYTlWa2alWA&expires=1512790432
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Még zöldebb a szomszéd nõje
+http://video5.videa.hu/static/360p/5.955016.939954?md5=OJW4AJfTIC92C-sJOsAb8A&expires=1512790475
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Furcsa pár 2
+http://video8.videa.hu/static/video/5.839041.350522?md5=Cs7bS40DWHcREDYFBlwyfw&expires=1512790704
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Tengerre tata! (1997)
+http://video7.videa.hu/static/360p/5.1018757.1502598?md5=nRfU3Q9whTtzkcDViwOKOw&expires=1512790945
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Véres játék 
+http://video8.videa.hu/static/360p/5.932060.1958019?md5=wql_2nag5JtBnzEVtpJf5g&expires=1512791009
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Amerikába jöttem (1988) 
+http://video7.videa.hu/static/360p/5.1033038.1502598?md5=YiawlOacEljaUaVBzg702g&expires=1512791121
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Szárnyát vagy combját? (1976)
+http://video7.videa.hu/static/240p/5.1036029.1502598?md5=18Bu7YRz_AG90rbvarRPxw&expires=1512791159
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Horgász a pácban (1958)
+http://video4.videa.hu/static/360p/5.1035912.1502598?md5=-TJz-OQyx2ohJcksAuctfw&expires=1512791201
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Emberek a havason (1942)
+http://video6.videa.hu/static/360p/5.1022546.1502598?md5=DGvn3IeGfdbfajuqMVvoBw&expires=1512791242
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Harcosok klubja 
+http://video7.videa.hu/static/240p/1.1125160.1958019?md5=sarbJO2D_tKV9lFBFt4yYg&expires=1512791646
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",A keményfejû 1987
+http://video2.videa.hu/static/360p/5.1042394.2008454?md5=j-difoenw4e7FcFx4b-V7A&expires=1512791989
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Idegroncs derbi
+http://video7.videa.hu/static/360p/5.954544.939954?md5=inAO74ToBUjgeMd2q_Taxw&expires=1512792119
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Macskajaj 
+http://video2.videa.hu/static/360p/5.1003644.961866?md5=XpUZ2p5QoQn50DA1ESBmiw&expires=1512792235
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Fletch (1985)
+http://video2.videa.hu/static/240p/5.976413.1987182?md5=vMTWKuE6mnMjfdBgFYX-nA&expires=1512792386
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Nyomás utána
+http://video4.videa.hu/static/video/2.771134.1660512?md5=AnQvvP9cN4h3Us6BQJkJYA&expires=1512792626
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Fehér Agyar (1991)
+http://video8.videa.hu/static/240p/5.1005718.1958019?md5=IfqX6ka2s3UxZ2Uq8049YA&expires=1512792716
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Jumanji
+http://video3.videa.hu/static/video/2.903110.1928426?md5=0XzaUOsWiUrTvhGD-POE7g&expires=1512792791
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Odüsszeusz
+http://video7.videa.hu/static/video/5.900528.1928426?md5=R0osfUdxHj7zdV2-ORdNbw&expires=1512792852
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Óvóbácsik
+http://video7.videa.hu/static/video/5.780255.1660512?md5=JMU64KXfcplo67yUt96W_w&expires=1512792944
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Halálos fegyver 1987
+http://video7.videa.hu/static/360p/3.1086632.2006866?md5=YUosq63R5BYZloNo78khcA&expires=1512793108
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Szuperhekusok
+http://video8.videa.hu/static/video/3.786569.1714635?md5=hEOz3SM08uIQlmGIOgbBqg&expires=1512793197
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Titanic (1997)
+http://video9.videa.hu/static/240p/2.1136924.2039743?md5=pK5zko3eBwNC-UwM3QkUJw&expires=1512793275
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",A cipõbûvölõ
+http://video9.videa.hu/static/360p/5.948468.1970943?md5=dARwVi0vCHJCfSxChaNmIw&expires=1512793375
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Mr. Óvóbácsi
+http://video2.videa.hu/static/240p/5.940732.939954?md5=9SJ7dKxd0Gp7-AEf6Rg8pA&expires=1512793446
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Elátkozott karácsony (2008)
+http://video7.videa.hu/static/360p/5.1006529.1987182?md5=ZYJbh9Jw8nxTbM7Zz8bYBw&expires=1512793504
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Ludas Matyi 1979
+http://video5.videa.hu/static/480p/5.1049030.2009148?md5=eS9eDG3zJvN9tgWNFogZTw&expires=1512793566
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Asterix és Obelix
+http://video1.videa.hu/static/video/3.779346.1660512?md5=H5uNy76vvu62OoWrkzWxhw&expires=1512793649
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Ernest a seregben
+http://video3.videa.hu/static/video/3.779376.1660512?md5=p6YjZOIzPp2kJqYov35kwQ&expires=1512793686
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Reszkess, Télapó!
+http://video8.videa.hu/static/video/2.780624.1660512?md5=hmQDloS4UR66CuNpWrN4Vg&expires=1512793887
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Bombajó bokszoló
+http://video2.videa.hu/static/video/5.774180.1660512?md5=bg-rCjRE8wGg2q702oRf9Q&expires=1512793989
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Nevem: Senki
+http://video7.videa.hu/static/video/5.780565.1660512?md5=H2WlWTjB0H5azLBi6SCg-A&expires=1512794057
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Pofa be! 
+http://video2.videa.hu/static/video/5.774325.1660512?md5=c7p3vdbqrScRn5dyJTzvbg&expires=1512794085
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Ron kapitány 
+http://video6.videa.hu/static/video/5.774347.1660512?md5=u5M8zzER-i8BYX-f1Y-L3w&expires=1512794144
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Eszelõs szivatás 
+http://video4.videa.hu/static/video/5.780282.1660512?md5=xvkwwI7RXNylk8IRoVU75g&expires=1512794213
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Taxi
+http://video8.videa.hu/static/video/5.774592.1660512?md5=r17B2QMmqI313xLEFicOVQ&expires=1512794256
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",A kábelbarát 
+http://video5.videa.hu/static/240p/3.1133443.656277?md5=pJ-zOcJ5U3FmfcaYf1NN2Q&expires=1512794356
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",A shaolin halálkamrája
+http://video9.videa.hu/static/240p/5.1144079.656277?md5=-axJMoZem72LpUi7eo1Aew&expires=1512794416
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Vissza a jövõbe
+http://video2.videa.hu/static/360p/5.947080.1970943?md5=ktR8Rn8TLdTepcib33JH3Q&expires=1512794520
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Vissza a jövõbe 2
+http://video2.videa.hu/static/240p/5.1023058.2002653?md5=nD3KqPDBBn42GN64_Iuypg&expires=1512794575
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Vissza a jövõbe 3
+http://video7.videa.hu/static/240p/3.1023060.2002653?md5=7jxfL0CqHOnD11SnlMaeAA&expires=1512794603
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Sziki-szökevény
+http://video8.videa.hu/static/360p/5.939348.1928426?md5=bqdRwGqCjsZpcPRsEMwyTg&expires=1512794904
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Kickboxer
+http://video9.videa.hu/static/video/2.779571.1660512?md5=bVx8ztANEDgML99Hi1CIuw&expires=1512795015
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Kickboxer 2
+http://video9.videa.hu/static/480p/5.954912.1974644?md5=HZmZ_uKNHYxa3DwjGefaSA&expires=1512795092
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Kickboxer 3
+http://video2.videa.hu/static/360p/5.954913.1974644?md5=jhRojdONnU3xotu-GfgzTw&expires=1512795130
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Kickboxer 4
+http://video3.videa.hu/static/480p/5.954918.1974644?md5=ZNQNmlQHmBDylkWXHeJQ-w&expires=1512795160
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Banános Joe
+http://video7.videa.hu/static/video/2.771863.1660512?md5=XKqcmnWaFzmo8ozZPYveog&expires=1512795225
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Mérges pókok
+http://video9.videa.hu/static/video/5.770878.1660512?md5=-en7dZTOH8I61HlbFuPiDQ&expires=1512795297
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Rövidzárlat (1986)
+http://video2.videa.hu/static/240p/5.972636.1987182?md5=QmjHX8duhE8FkO3r89geOQ&expires=1512795385
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",A kör
+http://video9.videa.hu/static/240p/5.1134594.1994494?md5=xTHG3yXRzKybUxdCc4g_cw&expires=1512795512
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Ernest kereket old
+http://video2.videa.hu/static/video/2.786194.1714635?md5=2BdItLACABPgBxuJ_2e0kQ&expires=1512795603
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Az (2017) 
+http://video6.videa.hu/static/240p/2.1136835.2039743?md5=NHvSsCt5n0NZghVP-qys5Q&expires=1512795686
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Horgász a pácban (1958)
+http://video2.videa.hu/static/360p/3.1011032.1987182?md5=8VGAOLCVKB6U0oThSgf3IA&expires=1512795730
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Szabadnapos baba
+http://video5.videa.hu/static/240p/5.941331.1928426?md5=5cWSTB5NTovO__otjIDYcA&expires=1512795823
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",A Mézga család és a számítógép 
+http://video1.videa.hu/static/360p/2.1125414.1424891?md5=hkikU9PqQo95sxX_W97Gag&expires=1512795939
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Heves jeges
+http://video7.videa.hu/static/240p/5.979407.1987182?md5=S0gwnH0OIx0-YGWx5kBKbg&expires=1512796233
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Forrest Gump (1994) 
+http://video6.videa.hu/static/240p/5.1008933.1987182?md5=_b4sttQ0WTLbQxe7JdnNHg&expires=1512800335
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",És megint dühbe jövünk
+http://video6.videa.hu/static/video/5.837368.1537577?md5=hPoYL7F0juCNNUN73-qKAg&expires=1512800395
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Az Álmosvölgy legendája
+http://video5.videa.hu/static/240p/1.1135367.1994494?md5=08Ns2NnjOVeckcNVkr7U5A&expires=1512800501
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Kincs ami nincs
+http://video1.videa.hu/static/video/5.770864.1660512?md5=06JcPcekXb5Is9B-U_5hXA&expires=1512800577
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Godzilla
+http://video8.videa.hu/static/video/2.794431.1410845?md5=rc4zL2pde78nqfu9Ad-AIA&expires=1512800773
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Távkapcs
+http://video4.videa.hu/static/240p/5.1023053.2002653?md5=fd2XxG0_O8rdzopdNWr2Pg&expires=1512800930
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Halálos Iramban
+http://video4.videa.hu/static/240p/5.1022941.2002653?md5=SeYjMGk61JCVSTVnMxzDBg&expires=1512801168
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Kingboxer
+http://video4.videa.hu/static/360p/5.971619.1984697?md5=EsMGrrccTiTXSg3JetI58Q&expires=1512801238
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Bunyó karácsonyig
+http://video3.videa.hu/static/360p/5.973746.1984697?md5=lpG_dj27RqZl_84kW3HfAA&expires=1512801360
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Morcos misszionárusok
+http://video8.videa.hu/static/360p/5.973751.1984697?md5=71w8GPgtGA4oxUBTYKgB1g&expires=1512801389
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Aranyesö Yuccában
+http://video7.videa.hu/static/360p/5.973740.1984697?md5=QDt0rE1d-Bc6gLbGjbPAuQ&expires=1512801471
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Tucatjával olcsóbb
+http://video6.videa.hu/static/240p/5.1037877.2004696?md5=D6IpMIB_LFqc2juYAYYwew&expires=1512838259
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Tucatjával olcsóbb 2
+http://video7.videa.hu/static/240p/5.1037881.2004696?md5=H4gicwaS6bXRVsZBVABswQ&expires=1512838304
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Dinkaszauruszok
+http://video1.videa.hu/static/480p/5.1036444.2004696?md5=bTBiu8AonqVEp-20Ae0twQ&expires=1512838366
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Mikulás szabadságon
+http://video8.videa.hu/static/240p/5.1021226.2002653?md5=8kBSaGR_4mJWEBY8uVxS6w&expires=1512838436
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",A vasöklû férfi 
+http://video7.videa.hu/static/240p/5.962026.939954?md5=345GnUd-UYXk1SHEZsrTxA&expires=1512838486
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",A bosszú börtönében
+http://video9.videa.hu/static/360p/5.962618.1984697?md5=eXTepI3dhhUzdypL5l1c5w&expires=1512838672
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Kickbox robotok
+http://video8.videa.hu/static/360p/5.961595.1984697?md5=XyUMSQ1eIlGucrUzKyhGZQ&expires=1512838848
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",A karácsonyfa varázsa
+http://video9.videa.hu/static/360p/5.1020122.2002653?md5=kciUVt-vLXMdSZmwKGsn7g&expires=1512839004
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Az Otthonunk - Nosso Lar
+http://video8.videa.hu/static/360p/5.1022892.2003258?md5=vJLoo4bRobK4Ugonk-Ig3Q&expires=1512839186
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Insidious - Gonosz lélek
+http://video2.videa.hu/static/240p/5.947113.1970943?md5=7Z79J9Pxxro_YpXsyF9EFw&expires=1512839300
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Végtelen történet
+http://video4.videa.hu/static/240p/3.1126558.1994494?md5=l7i7dAmWDR5npExsLY4gEw&expires=1512839369
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Rémmesék - Creepshow 2
+http://video7.videa.hu/static/360p/5.1110571.1987182?md5=dCEh6N06aDNlTvWaoChP_A&expires=1512839480
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Csillagkapu 1
+http://video3.videa.hu/static/240p/4.1149763.2004352?md5=mE1kxK4SBStCGonClo1u0Q&expires=1512839628
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Érkezés 
+http://video9.videa.hu/static/240p/5.1045607.2003258?md5=9MqdgEOAbWhks2eHIi2thw&expires=1512839718
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Louise de Funes Marakodók
+http://video3.videa.hu/static/360p/5.1138044.2037843?md5=C4cWtmkfpY7G6Qe0xovb-A&expires=1512839967
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",E.T. (1982)
+http://video9.videa.hu/static/360p/3.1098678.1994494?md5=Zr-Fw5Z4uYAUbRCxh3UZGQ&expires=1512840431
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Elysium - Zárt világ
+http://video7.videa.hu/static/240p/3.1134488.1994494?md5=_XW6aoTVhiZn--Y2q5zVtw&expires=1512840548
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Maugli, a dzsungel fia (1994)
+http://video8.videa.hu/static/360p/5.1023827.1987182?md5=fdkGr4DhpPbgiXn6Q_k5-Q&expires=1512840586
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Ágyúgolyó futam 1
+http://video5.videa.hu/static/240p/5.971481.1984697?md5=bHcf6cUPE37sIk0s_EnZoQ&expires=1512840855
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Ágyúgolyó futam 2
+http://video3.videa.hu/static/360p/5.962879.1984697?md5=IA7-EAXO2ZoIYPsNX311iQ&expires=1512840907
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Ágyúgolyó futam 3
+http://video4.videa.hu/static/360p/5.1042285.2004841?md5=QXo4MxQHUusn33a0LHIIvA&expires=1512841004
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Különben dühbe jövünk
+http://video7.videa.hu/static/360p/5.973749.1984697?md5=e-Yz2-tL57t1ceJYOwW5gQ&expires=1512841061
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Én a vizilovakkal vagyok
+http://video8.videa.hu/static/360p/5.973747.1984697?md5=u1Hoe8BTWN1yXAUOKgOXDw&expires=1512841100
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Fél lábbal a paradicsomban
+http://video4.videa.hu/static/360p/5.973741.1984697?md5=TO70xG5pjmOJp_A9w7taVg&expires=1512841140
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Gördülõ kung-fu
+http://video3.videa.hu/static/360p/5.968277.1984697?md5=nTz11A1jwIBcprKb59FEeg&expires=1512841230
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",BRUCE LEE : A nagyfönök
+http://video8.videa.hu/static/240p/5.962935.1984697?md5=z8BVv7lob-FN9a8kF8C2TQ&expires=1512841518
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Részeges karatemester 2
+http://video4.videa.hu/static/240p/5.967173.1984697?md5=uxFH-ZrNrCd8kbtNijRcWQ&expires=1512841339
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Ace Ventura 1
+http://video4.videa.hu/static/360p/5.963175.1984697?md5=cyC70avx1xpk_IfCBwtF4Q&expires=1512841612
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Ace Ventura 2
+http://video1.videa.hu/static/240p/5.963176.1984697?md5=IkG4fAxINY3s3IKBfPJIuw&expires=1512841652
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",A kábelbarát
+http://video9.videa.hu/static/240p/5.940917.939954?md5=znr70JlC92ixIf5gCGSdkg&expires=1512841799
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",RRrrrrr 
+http://video5.videa.hu/static/240p/5.1143603.2044415?md5=Yq5tEuEuWg-OD9h4HuNXow&expires=1512841861
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Nincs kettö négy nélkül
+http://video7.videa.hu/static/360p/5.973914.1984697?md5=RZO6VQ_BM6FjF_yTBxmXtw&expires=1512842057
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Jackie Chan : A kung fu kölyök
+http://video7.videa.hu/static/480p/5.971643.1984697?md5=_r4RCX-5LrYPu0w-4IBrQQ&expires=1512842106
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",A sárkány Bruce Lee élete
+http://video8.videa.hu/static/240p/5.970847.1984697?md5=OdV2zif0j0F42Rq9wNgLsg&expires=1512842201
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Kincs ami nincs
+http://video9.videa.hu/static/360p/5.969918.1984697?md5=RVXINcrcv13ctXfArRc3sg&expires=1512842276
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Gördülõ kung-fu
+http://video7.videa.hu/static/240p/5.968642.939954?md5=T5U1o-kgX1KjQ5hFxKJpfQ&expires=1512842306
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Jancsi és Juliska 1987
+http://video4.videa.hu/static/360p/5.1113185.2008441?md5=qIq-LJOMFK7jErlY7a_A7Q&expires=1512842369
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Terminator.2
+http://video7.videa.hu/static/240p/5.1141825.2004352?md5=fIAlWasQfQovtc3fdJV8sw&expires=1512842663
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Terminator.3
+http://video5.videa.hu/static/240p/4.1149472.2047114?md5=oioIKSeqHr5azwgNsjHnNg&expires=1512842747
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Jöttünk láttunk visszamennénk 1
+http://video7.videa.hu/static/240p/5.954472.22608?md5=lfq8dl3_erckJsM_Zw6dVA&expires=1512843210
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Jöttünk  láttunk visszamennénk 2
+http://video7.videa.hu/static/240p/5.954471.22608?md5=fpyRwtB_MOHfKfEulksFZg&expires=1512843240
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Jöttünk láttunk visszamennénk 3 
+http://video6.videa.hu/static/480p/5.1006540.1998826?md5=3WPWsWGLmjmTdivc9fOEcg&expires=1512843159
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Az inkák kincse
+http://video7.videa.hu/static/360p/2.1149662.2034996?md5=zNm7j5hMpODdhSTJJuT6LA&expires=1512844135
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Dínó 2000
+http://video9.videa.hu/static/240p/4.1149564.2034817?md5=diO8BRFaczAqwtmPcIcshA&expires=1512844248
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Utazás a Tündérszigetre! 
+http://video4.videa.hu/static/360p/5.1149540.2044380?md5=YhK2fg7IZtLalvbN0aNljQ&expires=1512844311
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Muszklimikulás
+http://video1.videa.hu/static/480p/5.1149113.2002126?md5=WMKiW6oYp_z7w6L_dWUruA&expires=1512844566
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Az igéret szép szó
+http://video4.videa.hu/static/360p/5.1147974.2036325?md5=ejlWFzQSTMLWqoUg4vOftQ&expires=1512844895
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Ulzana portyája
+http://video2.videa.hu/static/360p/5.1146870.2038201?md5=E1Ub3Dkdbw50Qz_7lOIvMQ&expires=1512845139
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Rocky 1
+http://video4.videa.hu/static/360p/5.971283.1984697?md5=hrXmJkt_WOY2xGd3LbgMaw&expires=1512883035
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Rocky 2
+http://video4.videa.hu/static/240p/5.956726.1962844?md5=wUele8L44NWSRZklcIJ9Mw&expires=1512883074
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Rocky 3
+http://video2.videa.hu/static/360p/5.957077.1962844?md5=ioWByn4guovxiphnOpHuBw&expires=1512883100
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Rocky 4
+http://video9.videa.hu/static/360p/5.957688.1962844?md5=GZjg9Z3baszDUQzB0Z_49g&expires=1512883136
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Filmek",Robotzsaru (2014)
+http://video3.videa.hu/static/240p/5.933088.1956709?md5=ruH0DuJQww6Z489Xj-bA9g&expires=1512883205
+
+
+
+
+
+
+
+#EXTM3U Magyar Filmek
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",Ház a sziklák alatt
+http://video6.videa.hu/static/480p/5.955099.939954?md5=Y5rpgd-PnF1-By8L6xZQEA&expires=1512841710
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",Emberek a havason
+http://video6.videa.hu/static/360p/5.1022546.1502598?md5=DHUjIglK0ExJNuxK2FnvrA&expires=1512952848
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",Talpalatnyi föld - 1948
+http://video3.videa.hu/static/480p/5.1012942.1999744?md5=clcCNCX4beF2m6BPc280mg&expires=1512952884
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",Indul a bakterház (1979)
+http://video7.videa.hu/static/480p/5.955508.22608?md5=AYSfdMorcazWxbWvX600aQ&expires=1512952980
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",Megy a gõzös(2007)
+http://video8.videa.hu/static/240p/5.1039704.1934927?md5=Dfe36ZkoaMiioNTxvTTb8A&expires=1512953027
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",Az elvarázsolt dollár
+http://video5.videa.hu/static/480p/3.1131191.2037660?md5=Ci0q6DWIhvvlxgr7amTSfQ&expires=1512966567
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",A Pogány Madonna
+http://video3.videa.hu/static/video/2.814302.1410845?md5=G65hvEXAizMBr0D-sKUeaA&expires=1512966668
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",Csak semmi pánik
+http://video8.videa.hu/static/video/5.771879.1660512?md5=uGpC48vyW3bW5Y16P93S6w&expires=1512966711
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",Hamis a baba
+https://www.youtube.com/watch?v=yC3ew36YNrs
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",Zsaruvér és Csigavér A királyné nyakéke
+https://www.youtube.com/watch?v=Ce7nRMV_FZ4
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",Zsaruvér és Csigavér Több tonna kámfor
+https://www.youtube.com/watch?v=Wv5wzb_pxXc
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",Zsaruvér és Csigaver A szerencse fia
+https://www.youtube.com/watch?v=1RfoGUCfTXE
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",Ábel a rengetegben
+https://www.youtube.com/watch?v=55W2RTTwNH0
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",Sose halunk meg(1993)
+http://video7.videa.hu/static/360p/5.1033954.1934927?md5=ar2PlT-tiZXeM_SLbKhYTQ&expires=1512967339
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/cinebo10.png" group-title="Magyar Filmek",Boszorkánykör
+https://www.youtube.com/watch?v=L3CluQFovxY
+
+
+
+
+
+
+#EXTM3U Mesék a kriptából
+
+   
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",A halál embere
+https://www.youtube.com/watch?v=UsFqWOgAglo
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Télapó itt van
+https://www.youtube.com/watch?v=zY0FpLBzEQI
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Ez a macska megdöglött
+https://www.youtube.com/watch?v=Ziw7DQ9-UBs&list=PL8CE7819088BDC5FA&index=21
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Csak egy súlyos vétség
+https://www.youtube.com/watch?v=OSwVc2Msg0g
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Szerelmem jöjj sújts le rám
+https://www.youtube.com/watch?v=gX0viij2hOw&index=19&list=PL8CE7819088BDC5FA
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Komplett kollekció
+https://www.youtube.com/watch?v=C3OZQNzQOzQ&index=16&list=PL8CE7819088BDC5FA
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",A hullajelölt
+https://www.youtube.com/watch?v=o95PjCfgkuU&list=PL8CE7819088BDC5FA&index=15
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",A csere
+https://www.youtube.com/watch?v=7rzhTjLDizA&index=14&list=PL8CE7819088BDC5FA
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",A kártyapárbaj
+https://www.youtube.com/watch?v=LgbGSCWbGJs&list=PL8CE7819088BDC5FA&index=13
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Amíg a halál el nem választ
+https://www.youtube.com/watch?v=jSpGcIdVDNQ&index=12&list=PL8CE7819088BDC5FA
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Házassági évforduló
+https://www.youtube.com/watch?v=Uiy9MXcc8mU&index=11&list=PL8CE7819088BDC5FA
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Síron túli bosszú
+https://www.youtube.com/watch?v=lxNA0fyGkkA&index=10&list=PL8CE7819088BDC5FA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Az áldozat
+https://www.youtube.com/watch?v=Ed3E9E6C1Xs&index=9&list=PL8CE7819088BDC5FA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Hangok a mélybõl
+https://www.youtube.com/watch?v=TWOjtziUGV0&index=8&list=PL8CE7819088BDC5FA
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Négyespáros
+https://www.youtube.com/watch?v=oNE5pSMOAdM&index=7&list=PL8CE7819088BDC5FA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Gyerekjáték
+https://www.youtube.com/watch?v=HQGT9XCTuoY&index=6&list=PL8CE7819088BDC5FA
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Ma nem vagy önmagad
+https://www.youtube.com/watch?v=iqX_No4q6O0&index=5&list=PL8CE7819088BDC5FA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Testre szabott büntetés
+https://www.youtube.com/watch?v=Jf-ainNcKTI&list=PL8CE7819088BDC5FA&index=4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",A szörnygyáros
+https://www.youtube.com/watch?v=_j8MOukSXEo&index=3&list=PL8CE7819088BDC5FA
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",Alma a fájától
+https://www.youtube.com/watch?v=2A186zUQ-aI&list=PL8CE7819088BDC5FA&index=2
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/m110.png" group-title="Mesék a kriptából",A néma tanú
+https://www.youtube.com/watch?v=yHuIw1oeSrk&list=PL8CE7819088BDC5FA&index=1
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tales_10.png" group-title="Mesék a kriptából",A titok
+http://video8.videa.hu/static/360p/2.1150491.1995931?md5=iHQmoh3IVB27TM_z4ktn2w&expires=1513111831
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tales_10.png" group-title="Mesék a kriptából",Borzalom élõ adásban
+http://video3.videa.hu/static/360p/1.1150492.1995931?md5=y086XbGhhMzmvOEyNzn5EA&expires=1513111811
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tales_10.png" group-title="Mesék a kriptából",Elválaszthatatlanul
+http://video1.videa.hu/static/360p/4.1150493.1995931?md5=fsvaEB1vZ0cbQEGNAxqohA&expires=1513111795
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tales_10.png" group-title="Mesék a kriptából",Demonlovag
+http://video2.videa.hu/static/360p/2.1150500.1995931?md5=OXQPoq1FhRM8q-eC-FkiVA&expires=1513111775
+
+#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/tales_10.png" group-title="Mesék a kriptából",Verbordely
+http://video6.videa.hu/static/240p/3.1150509.1995931?md5=XabCfYrphrL4WWUcxpdPJw&expires=1513111728
+
+
+
+
+#EXTM3U Meghökkentõ mesék
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Szuperpempõ
+https://www.youtube.com/watch?v=7q0LlZ_nWyw
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Mr. Appleby szereti a rendet
+https://www.youtube.com/watch?v=J5z4quPCTH0
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Mr. Appleby szereti a rendet
+https://www.youtube.com/watch?v=e4gMv8bRqsI
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Van képe hozzá
+https://www.youtube.com/watch?v=Rw97bwdLfsc
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Súlyos gond
+https://www.youtube.com/watch?v=J5z4quPCTH0
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A légyfogó
+https://www.youtube.com/watch?v=BbxcUclc-RI
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A légyfogó
+https://www.youtube.com/watch?v=rZIcYZNu2co
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Báránysült hentesné módra
+https://www.youtube.com/watch?v=2O47wgPIQF4
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A fába szorult féreg
+https://www.youtube.com/watch?v=2JaS7whxx20
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Bõr
+https://www.youtube.com/watch?v=ACj_neSxBQM
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A házinéni
+https://www.youtube.com/watch?v=UXr9pRJejt8
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Apró kis trükkök
+https://www.youtube.com/watch?v=9QFMnHPc2X8
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A meztelen valóság
+https://www.youtube.com/watch?v=hYAGMu3wxhM
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A bor zamata
+https://www.youtube.com/watch?v=iBRav_pxhDs
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Egy ember délrõl
+https://www.youtube.com/watch?v=g-CSQwdKD9k
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Úgy szeretlek, majd megeszlek
+https://www.youtube.com/watch?v=cnlOJve0EK4
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A nagybetûs élet
+https://www.youtube.com/watch?v=2Caovog5yy8
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Szaladj, szaladj, nyulacska
+https://www.youtube.com/watch?v=CU9rplsscdE
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A nagyfõnök
+https://www.youtube.com/watch?v=BeQzRTlTpPo
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Szeles
+https://www.youtube.com/watch?v=w8IAvFcmz20
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Törhetetlen
+https://www.youtube.com/watch?v=_rW2MrE3QPU
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Kölcsön kenyér visszavág
+https://www.youtube.com/watch?v=bwy1fhSncfE
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Aki másnak vermet ás
+https://www.youtube.com/watch?v=RW_Ylsz3Vm8
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Ördögi kör
+https://www.youtube.com/watch?v=0jKE5fNkdP0
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Szép szemed titka
+https://www.youtube.com/watch?v=czZw3UAIV2A
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A csali
+https://www.youtube.com/watch?v=HAJm6JxMXD0
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A gyilkos fegyver
+https://www.youtube.com/watch?v=fZsSXMF3WAg
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A csend hangjai
+https://www.youtube.com/watch?v=miaJxDQRxdE
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Végzetes bizalom
+https://www.youtube.com/watch?v=3OyvAaTFsbc
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A parti
+https://www.youtube.com/watch?v=c1TQBVCnN00
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Csontváz a szekrényben
+https://www.youtube.com/watch?v=DE01e0R1A4g
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Az ezredes felesége
+https://www.youtube.com/watch?v=mTEo7wOE6uA
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A sebész
+https://www.youtube.com/watch?v=PL55nvUABYg
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A halottak nem lopnak
+https://www.youtube.com/watch?v=3ErNoWfxZSE
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Ideje hogy meghaljon
+https://www.youtube.com/watch?v=07rdRfw1-Ok
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A sekrestyés
+https://www.youtube.com/watch?v=pDIu7pO1QvA
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Kacsints háromszor
+https://www.youtube.com/watch?v=rZIcYZNu2co
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",A nagybetûs élet
+https://www.youtube.com/watch?v=2Caovog5yy8
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Emily eltûnt
+https://www.youtube.com/watch?v=YvVUZ6zwkQw
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Mit csinálsz mostanában?
+https://www.youtube.com/watch?v=YitRVgDDsGg
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Ártatlan hiúság
+https://www.youtube.com/watch?v=QUKnCvfipuw
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Bûnmásolás
+https://www.youtube.com/watch?v=W1mO8i4qoTs
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Bécsi elixír
+https://www.youtube.com/watch?v=5-V79DdnUWA
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Mindent tudó úr
+https://www.youtube.com/watch?v=Hby7C5yXsm8
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/536e7f11.jpg" group-title="Meghökkentõ mesék",Van képe hozzá
+https://www.youtube.com/watch?v=Rw97bwdLfsc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U X-akták
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 1.rész - Sebhelyek
+http://video9.videa.hu/static/video/2.805889.527529?md5=XGgFC11Mvv_tfhBEnSO1hg&expires=1512950015
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 2.rész - A támaszpont
+http://video8.videa.hu/static/video/5.805893.527529?md5=Xrnc16yeqB_wggvj4o0R3w&expires=1512950052
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 3.rész - A gumiember
+http://video9.videa.hu/static/video/2.805894.527529?md5=exSAb3Il_vKwti9of_bAUw&expires=1512950142
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 4.rész - A csatorna
+http://video9.videa.hu/static/video/5.805906.527529?md5=avWmQv8DsdSq_tfpUjd74Q&expires=1512950356
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 5.rész - A jerseyi ördög
+http://video9.videa.hu/static/video/5.805912.527529?md5=QNSJ3F3FMZIu10Xu6hWAzg&expires=1512950410
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 6.rész - Árnyakördög
+http://video7.videa.hu/static/video/2.805920.527529?md5=qSI_IbBYT-p3E6ZXmRcAdg&expires=1512950442
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 7.rész - Szellem a komputerben
+http://video6.videa.hu/static/video/5.805925.527529?md5=uzWlj7lYA5VV30P71rH_4Q&expires=1512950486
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 8.rész - A jég
+http://video3.videa.hu/static/video/5.805929.527529?md5=2RqgIvnYR_ctwlN1LMk1yA&expires=1512950518
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 9.rész - A világûr
+http://video5.videa.hu/static/video/2.805931.527529?md5=U9yvi4A0jVXvlT93tSOQDQ&expires=1512950558
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 10.rész - Bukott angyal
+http://video9.videa.hu/static/video/5.805934.527529?md5=WMbPPC2yYoihfXLKAU-zRQ&expires=1512950591
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 11.rész - Évák
+http://video4.videa.hu/static/video/2.805936.527529?md5=gsA3GpxFKLOzSiJd_FZVWw&expires=1512950646
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 12.rész - A tûz
+http://video8.videa.hu/static/video/5.805939.527529?md5=Lf83mA2_5dmGW3YJRj1PTg&expires=1512950679
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 13.rész - A látnok
+http://video8.videa.hu/static/video/5.805940.527529?md5=mW1tNL2VR3JU55mkbB8Cfw&expires=1512950714
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 14.rész - Nemet váltók
+http://video4.videa.hu/static/video/2.805942.527529?md5=iFJglf2n8XMNPRPZPAzlHw&expires=1512950752
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 15.rész - Lázár
+http://video6.videa.hu/static/video/5.805943.527529?md5=cEliBf-5VD18Zr3WE9b0Dw&expires=1512950783
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 16.rész - Aki szívében ifjú
+http://video1.videa.hu/static/video/5.805984.527529?md5=4M9c1uuV8Df2Mfdx2pqpjA&expires=1512950839
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 17.rész - A földönkívüli ifjú
+http://video2.videa.hu/static/video/5.805989.527529?md5=skVuND0tMS5DlMsWg4GWow&expires=1512950872
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 18.rész - A csodatevõ
+http://video7.videa.hu/static/video/2.805991.527529?md5=bWCUywA37euok9dauBr4vg&expires=1512950902
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 19.rész - Alakok
+http://video7.videa.hu/static/video/3.805994.527529?md5=vn607I1i1-eVWxu1MBhtOQ&expires=1512950942
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 20.rész - Leszáll az éj
+http://video7.videa.hu/static/video/2.805996.527529?md5=3zd6fzEEBN-PNzeP1Mvo-w&expires=1512950985
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 21.rész - A gumiember visszatér
+http://video8.videa.hu/static/video/5.805999.527529?md5=_xBiN7xa_KFF974h0BPJGQ&expires=1512951027
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 22.rész - Az újjászületés
+http://video3.videa.hu/static/video/2.806003.527529?md5=KxlICvFXBZyQZhniF8cf5g&expires=1512951062
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 23.rész - Roland
+http://video9.videa.hu/static/video/3.806005.527529?md5=ItMNv6l3IwqALiW3YIo93w&expires=1512951100
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 1.évad 24.rész - A lombik
+http://video5.videa.hu/static/video/3.806012.527529?md5=zwFyXjq-krsktRimV9gtDg&expires=1512951135
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 1.rész - Apró zöld emberkék
+http://video1.videa.hu/static/video/5.806016.527529?md5=KW-COGt2qCkEW1jREnGTkg&expires=1512959578
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 2.rész - A gazda
+http://video6.videa.hu/static/video/5.806020.527529?md5=bNJulSQALn8AcmMjg0xAfQ&expires=1512959630
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 3.rész - Vér
+http://video2.videa.hu/static/video/5.806022.527529?md5=JHC5iSSKhLGBtdB8V-81LQ&expires=1512959675
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 4.rész - Az álmatlanság
+http://video1.videa.hu/static/video/5.806023.527529?md5=dinkI6NzgoOrIO34jI6t4A&expires=1512959728
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 5.rész - Duane Barry
+http://video1.videa.hu/static/video/5.806027.527529?md5=dQf-UhHPf6fYCAjKUhsM_Q&expires=1512959776
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 6.rész - Fel a csillagokba
+http://video7.videa.hu/static/video/5.806030.527529?md5=Zcyrk3aW2y5Vl8fe9ongtA&expires=1512959819
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 7.rész - Szentháromság
+http://video5.videa.hu/static/video/5.806039.527529?md5=-MoFPRd5J-046VolKKBKNA&expires=1512959858
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 8.rész - Egy lélegzet
+http://video6.videa.hu/static/video/2.806043.527529?md5=uGDCC0wul66nm6diOHSITQ&expires=1512959903
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 9.rész - Tûzjáró
+http://video3.videa.hu/static/video/5.806044.527529?md5=SljD331zdzPN1B2cRXbOww&expires=1512959950
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 10.rész - A vörös múzeum
+http://video8.videa.hu/static/video/3.806046.527529?md5=i54LHKdwYUaZduN8bYYmuw&expires=1512960018
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 11.rész - Excelsis dei
+http://video8.videa.hu/static/video/2.806048.527529?md5=Kda6kVCHHkYquCYk8r-GPA&expires=1512960064
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 12.rész - Aubrey
+http://video6.videa.hu/static/video/3.806060.527529?md5=ACxEh4JhKCjnh9RBw1ytWA&expires=1512960114
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 13.rész - Ellenállhatatlan
+http://video7.videa.hu/static/video/3.806070.527529?md5=1Ytz8EuG0n9y1_KfhcRQUw&expires=1512960159
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 14.rész - A kéz amely sebez
+http://video7.videa.hu/static/video/2.806076.527529?md5=imhw88k59HqdUmEfqOD60g&expires=1512960220
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 15.rész - Friss csontok
+http://video7.videa.hu/static/video/5.806082.527529?md5=cJc99LC99BmhEw17tOXNMQ&expires=1512960263
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 16.rész - A látogatók
+http://video7.videa.hu/static/video/5.806217.527529?md5=5BKGNjU0HekLP_BffAC4gw&expires=1512960305
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 17.rész - Végjáték
+http://video2.videa.hu/static/video/5.806228.527529?md5=grjJuVzUTjqsY0fgBE8Ahw&expires=1512960380
+
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 18.rész - Rettentõ szimmetria
+http://video6.videa.hu/static/video/5.806233.527529?md5=gdAIw8LmOw4_bDwkFfLo-w&expires=1512960428
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 19.rész - A hajó
+http://video7.videa.hu/static/video/3.806242.527529?md5=P9zxE44cyDzKivXrTAdDtw&expires=1512960512
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 20.rész - Szemfényvesztés
+http://video1.videa.hu/static/video/2.806246.527529?md5=9sG3BKx27IwkOC12DLn9zQ&expires=1512960558
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 21.rész - A gonosz szíve
+http://video1.videa.hu/static/video/5.806442.527529?md5=KGa1TtHKHQuQ8L4rSb5jwg&expires=1512960612
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 22.rész - A járvány
+http://video7.videa.hu/static/video/2.806453.527529?md5=2fxH7rtDloonsqWmI6H6ag&expires=1512960649
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 23.rész - Szórt fény
+http://video9.videa.hu/static/video/5.806455.527529?md5=At8YRQPnCCy9vUz34bUY2g&expires=1512960700
+
+
+
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 24.rész - A mi városunk
+http://video2.videa.hu/static/video/5.806458.527529?md5=3O9mMGrE_J6KxbtrlF5Bsg&expires=1512960748
+
+#EXTINF:-1 tvg-id="id3" tvg-name="" parent-code="" audio-track="hu" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/the-x-10.png" group-title="X-Aktak",X-akták 2.évad 25.rész - Anasazi
+http://video9.videa.hu/static/video/5.806461.527529?md5=pWv-_5jq7NKTZiaIZQEDrg&expires=1512960793
+
+
+
+
